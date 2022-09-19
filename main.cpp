@@ -11,6 +11,10 @@ int main() {
   r = acos(-1) /180;
 
   
-  
+  for (int i = 0; i < N; i++)
+    {
+      cin >> V0 >> a >> h1 >> h2;
+      
+    }
   
 }
